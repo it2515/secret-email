@@ -1,6 +1,6 @@
 '''
-Just  wiped this one together today this program can send an encrypted message throgh gmail 
-This was just a fun little  project I came up with. Make sure you remember your key.  
+Just  wiped this one together today. This program can send an encrypted message throgh gmail 
+This was just a fun little project I came up with. Make sure you remember your key.  
 @author: Chris Thummel 
 '''
 import smtplib
