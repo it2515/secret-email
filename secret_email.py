@@ -1,5 +1,5 @@
 '''
-Just  wiped this one together today. This program can send an encrypted message throgh gmail 
+Just  wiped this one together today. This program can send an encrypted message through gmail 
 This was just a fun little project I came up with. Make sure you remember your key.  
 @author: Chris Thummel 
 '''
